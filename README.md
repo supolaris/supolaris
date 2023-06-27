@@ -1,8 +1,13 @@
 ### Hi there 👋
+
 I am web and app developer.
+
 I tell computer to develop website using wordpress and computer listen to me.
+
 I tell computer to develop mobile application using React Native and it listen to me.
 I am supolaris.
+
+
 
 <!--
 **supolaris/supolaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

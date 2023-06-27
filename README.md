@@ -1,13 +1,10 @@
-### Hi there 👋
+### I am supolaris.
 
-I am web and app developer.
+I am Web and App developer.
 
-I tell computer to develop mobile application using React Native and it listens to me.
+I tell computer to develop mobile applications using React Native and it listens to me.
 
-I tell computer to develop website using wordpress and it listens to me.
-
-I am supolaris.
-
+I tell computer to develop websites using WordPress and it listens to me.
 
 
 <!--

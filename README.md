@@ -8,8 +8,6 @@ I tell computer to develop websites using AngularJs and it listens to me.
 
 I tell computer to develop websites using WordPress and it listens to me.
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/652fe34ff43a58c923e6aac5?variant=dark)](https://roadmap.sh)
-
 
 <h3 align="left">To Connect:</h3>
 <p align="left">

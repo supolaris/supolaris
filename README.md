@@ -2,11 +2,13 @@
 
 I am Web and App developer.
 
-I tell computer to develop mobile applications using React Native and it listens to me.
+I tell computer to develop mobile applications using React Native.
 
-I tell computer to develop websites using AngularJs and it listens to me.
+I tell computer to develop websites using AngularJs.
 
-I tell computer to develop websites using WordPress and it listens to me.
+I tell computer to develop websites using WordPress.
+
+I tell computer to develop woocommerce stores using Shopify.
 
 
 <h3 align="left">To Connect:</h3>

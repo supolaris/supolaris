@@ -10,6 +10,7 @@ I tell computer to develop websites using WordPress.
 
 I tell computer to develop woocommerce stores using Shopify.
 
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/6561c0ac5145316d256cd87c?variant=dark&roadmaps=javascript%2Creact-native%2Cangular" alt="roadmap.sh"/></a>
 
 <h3 align="left">To Connect:</h3>
 <p align="left">

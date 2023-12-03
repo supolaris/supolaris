@@ -1,6 +1,6 @@
 ### I am supolaris 👨‍💻
 
-I am Web and App developer.
+I am Web, App and Apex developer.
 
 I tell computer to develop mobile applications using React Native.
 

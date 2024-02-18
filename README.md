@@ -1,14 +1,28 @@
-### I am supolaris 👨‍💻
+### I am M.Suleman :)
+```
+class CodeCraftsMan {
+    constructor() {
+        this.name = "M.Suleman";
+        this.role = "Salesforce, Android, Web, Wordpress & Shopify Developer";
+        this.email = "supolaris.dev@email.com";
+        this.location = "Pakistan";
+        this.languages = ["Apex", "JavaScript", "TypeScript", "React Native", "Angular", "SOQL"];
+        this.hobbies = ["Coding", "Reading", "Gaming", "Skateboarding"];
+    }
 
-I am Web, App and Apex developer.
+    introduce() {
+        console.log("Hello there! Thanks for visiting my profile. I'm excited for you to explore some of my projects.");
+        console.log("Want to drop a friendly hello? don't hesitate feel free to reach out.");
+        console.log("Lets connect, if you have any questions or suggestions.");
+        console.log("I'm always open to to new ideas and collaborations.");
+        console.log("Feel free to contribute in any of my work");
+        console.log("Stay tuned for updates, Thanks :) ");
+    }
+}
 
-I tell computer to develop mobile applications using React Native.
-
-I tell computer to develop websites using AngularJs.
-
-I tell computer to develop websites using WordPress.
-
-I tell computer to develop woocommerce stores using Shopify.
+const aboutSuleman = new CodeCraftsMan();
+aboutSuleman.introduce();
+```
 
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/6561c0ac5145316d256cd87c?variant=dark&roadmaps=javascript%2Creact-native%2Cangular" alt="roadmap.sh"/></a>
 

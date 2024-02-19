@@ -4,7 +4,7 @@ class CodeCraftsMan {
     constructor() {
         this.name = "M.Suleman";
         this.role = "Salesforce, Android, Web, Wordpress & Shopify Developer";
-        this.email = "supolaris.dev@email.com";
+        this.email = "supolaris.dev@gmail.com";
         this.location = "Pakistan";
         this.languages = ["Apex", "JavaScript", "TypeScript", "React Native", "Angular", "SOQL"];
         this.hobbies = ["Coding", "Reading", "Gaming", "Skateboarding"];

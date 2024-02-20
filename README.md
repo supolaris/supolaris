@@ -10,7 +10,7 @@ class CodeCraftsMan {
         this.hobbies = ["Coding", "Reading", "Gaming", "Skateboarding"];
     }
 
-    introduce() {
+    helloWorld() {
         console.log("Hello there! Thanks for visiting my profile. I'm excited for you to explore some of my projects.");
         console.log("Want to drop a friendly hello? don't hesitate feel free to reach out.");
         console.log("Lets connect, if you have any questions or suggestions.");
@@ -21,7 +21,7 @@ class CodeCraftsMan {
 }
 
 const aboutSuleman = new CodeCraftsMan();
-aboutSuleman.introduce();
+aboutSuleman.helloWorld();
 ```
 
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/6561c0ac5145316d256cd87c?variant=dark&roadmaps=javascript%2Creact-native%2Cangular" alt="roadmap.sh"/></a>

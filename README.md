@@ -1,5 +1,5 @@
 ### I am M.Suleman :)
-```
+```javascript
 class CodeCraftsMan {
     constructor() {
         this.name = "M.Suleman";
@@ -22,6 +22,7 @@ class CodeCraftsMan {
 
 const aboutSuleman = new CodeCraftsMan();
 aboutSuleman.helloWorld();
+
 ```
 
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/6561c0ac5145316d256cd87c?variant=dark&roadmaps=javascript%2Creact-native%2Cangular" alt="roadmap.sh"/></a>

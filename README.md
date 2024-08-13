@@ -25,7 +25,7 @@ aboutSuleman.helloWorld();
 
 ```
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6561c0ac5145316d256cd87c?variant=dark&roadmaps=javascript%2Creact-native%2Creact%2Ctypescript" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/65b0a3820c548122832bba58?variant=dark" alt="roadmap.sh"/></a>
 
 <h3 align="left">To Connect:</h3>
 <p align="left">

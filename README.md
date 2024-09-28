@@ -3,10 +3,10 @@
 class CodeCraftsMan {
     constructor() {
         this.name = "M.Suleman";
+ this.languages = ["JavaScript", "TypeScript", "React Native", "React"];
         this.role = "Android, Web, Wordpress & Shopify Developer";
         this.email = "supolaris.dev@gmail.com";
         this.location = "Pakistan";
-        this.languages = ["JavaScript", "TypeScript", "React Native", "React"];
         this.hobbies = ["Coding", "Reading", "Gaming", "Skateboarding"];
     }
 

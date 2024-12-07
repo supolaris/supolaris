@@ -29,5 +29,5 @@ aboutSuleman.helloWorld();
 
 <h3 align="left">To Connect:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammad-suleman-593a6b20a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-suleman-593a6b20a" height="30" width="40" /></a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6561c0ac5145316d256cd87c?variant=dark&roadmaps=golang%2Cjavascript%2Creact-native%2Creact" alt="roadmap.sh"/></a>
 </p>

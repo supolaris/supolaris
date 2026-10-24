@@ -1,27 +1,38 @@
 ### I am M.Suleman :)
 ```javascript
-class CodeCraftsMan {
-    constructor() {
-        this.name = "M.Suleman";
-        this.languages = ["Go Lang", "JavaScript", "TypeScript", "React Native", "React"];
-        this.role = "Software Engineer, Backend, Frontend, Android, iOS, Web";
-        this.email = "supolaris.dev@gmail.com";
-        this.location = "Pakistan";
-        this.hobbies = ["Coding", "Reading", "Gaming", "Skateboarding"];
-    }
+class AIArchitect:
+    def __init__(self):
+        self.name = "M. Suleman"
+        self.role = "Full Stack AI/ML Engineer | AI Systems Architect"
+        self.focus = [
+            "AI Architecture & System Design",
+            "LLMs, RAG & Agentic AI",
+            "Knowledge Systems & Automation",
+            "Model Training & Evaluation",
+            "Backend, DevOps & Cloud Infrastructure",
+        ]
+        self.stack = {
+            "ai_ml": ["LLMs", "RAG", "AI Agents", "Vector Databases", "Embeddings", "Fine-tuning"],
+            "backend": ["Python", "FastAPI", "Go", "REST APIs", "Distributed Systems"],
+            "data": ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
+            "infra": ["Docker", "CI/CD", "Cloud-Native Architecture"],
+            "frontend": ["React", "React Native", "TypeScript", "JavaScript"],
+        }
+        self.email = "supolaris.dev@gmail.com"
+        self.location = "Pakistan"
+        self.hobbies = ["Coding", "Reading", "Gaming", "Skateboarding"]
 
-    helloWorld() {
-        console.log("Hello there! Thanks for visiting my profile. I'm excited for you to explore some of my projects.");
-        console.log("Want to drop a friendly hello? don't hesitate feel free to reach out.");
-        console.log("Lets connect, if you have any questions or suggestions.");
-        console.log("I'm always open to to new ideas and collaborations.");
-        console.log("Feel free to contribute in any of my work");
-        console.log("Stay tuned for updates, Thanks :) ");
-    }
-}
+    def hello_world(self):
+        print("Hi, I'm Suleman. Thanks for visiting my profile.")
+        print("I architect and build AI systems that run real businesses.")
+        print("From knowledge layers and models to backend and infrastructure.")
+        print("Open to collaborations, ideas, and interesting problems.")
+        print("Feel free to explore my work or reach out anytime.")
 
-const aboutSuleman = new CodeCraftsMan();
-aboutSuleman.helloWorld();
+
+if __name__ == "__main__":
+    suleman = AIArchitect()
+    suleman.hello_world()
 
 ```
 

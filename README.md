@@ -36,5 +36,3 @@ if __name__ == "__main__":
 
 ```
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6561c0ac5145316d256cd87c?variant=dark" alt="roadmap.sh"/></a>
-
